@@ -1,0 +1,36 @@
+{
+  "name": "pusher-and-polling",
+  "version": "1.0.0",
+  "description": "Pusher and Polling",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymefighter/pusher-and-polling.git"
+  },
+  "keywords": [
+    "Pusher",
+    "Polling"
+  ],
+  "author": "Ahmed Zaheer Dadarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tymefighter/pusher-and-polling/issues"
+  },
+  "homepage": "https://github.com/tymefighter/pusher-and-polling#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "typescript": "4.9.5"
+  }
+}
